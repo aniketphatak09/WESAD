@@ -1,2 +1,2 @@
 # WESAD
-Wearable Stress and Affect Detection 
+Classification of Wearable Stress and Affect Detection States
