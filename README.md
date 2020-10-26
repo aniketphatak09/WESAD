@@ -1,6 +1,9 @@
 # WESAD
 Classification of Wearable Stress and Affect Detection States
 
+Dataset:
+https://uni-siegen.sciebo.de/s/pYjSgfOVs6Ntahr/download
+
 
 - WESAD_visualization contains all visualization techniques applied to the dataset
 - WESAD_all_models consists of preprocessing along with different ML models such as LDA, QDA, Decision Trees, KNN along with techniques such as k-Fold Cross Validation along with   their analysis and optimization strategies employed.
